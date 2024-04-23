@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMIyaMUWurrgCGXdFjwhe84KxWA39eydK0SnkhgUPQzae+h7yjP5uAXuyG4BFmQWx3dZnkmcGn3tezs+sz2jAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bob\\source\\repos\\MonoGame\\Additive Blending\\Additive Blending.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bob\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Bob\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Content\blue.xnb
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Content\green.xnb
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Content\red.xnb
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Additive Blending.exe
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Additive Blending.deps.json
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Additive Blending.runtimeconfig.json
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Additive Blending.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\Additive Blending.pdb
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.csproj.AssemblyReference.cache
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.AssemblyInfo.cs
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive.822EAD2E.Up2Date
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\refint\Additive Blending.dll
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.pdb
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\Additive Blending.genruntimeconfig.cache
+C:\Users\Bob\source\repos\MonoGame\Additive Blending\obj\Debug\net6.0\ref\Additive Blending.dll
